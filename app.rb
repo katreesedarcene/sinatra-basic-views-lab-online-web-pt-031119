@@ -6,7 +6,8 @@ class App < Sinatra::Base
       erb :index
     end
     
-    get '/' do
-    <h1>Buster's Best Bowling Alley</h1> 
-  end
+  #   get '/' do
+  #   <h1>Buster's Best Bowling Alley</h1> 
+  # end
+  
 end
