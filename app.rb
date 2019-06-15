@@ -7,6 +7,6 @@ class App < Sinatra::Base
     end
     
     get '/' do
-    <h1>  
-    end
+    <h1>Buster's Best Bowling Alley</h1> 
+  end
 end
