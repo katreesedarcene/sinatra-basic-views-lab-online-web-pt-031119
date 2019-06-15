@@ -7,4 +7,6 @@ class App < Sinatra::Base
     end
     
     get '/' do
+    <h1>  
+    end
 end
